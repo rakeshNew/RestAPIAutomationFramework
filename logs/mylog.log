@@ -1,0 +1,5 @@
+
+[INFO ] 2025-10-01 08:58:25.750 [main] RestAssuredAPIAutomation - Create User executed
+[INFO ] 2025-10-01 08:58:26.058 [main] RestAssuredAPIAutomation - Get User Data executed
+[INFO ] 2025-10-01 08:58:26.557 [main] RestAssuredAPIAutomation - Update User Data executed
+[INFO ] 2025-10-01 08:58:26.811 [main] RestAssuredAPIAutomation - Delete User Data executed
